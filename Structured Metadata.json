@@ -1,0 +1,32 @@
+{
+"type": "Dataset",
+"accessRights": "Public",
+"sources": [
+  {
+    "source": "https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/data_preview"
+  },
+  {
+   "source": "https://catalog.data.gov/dataset/electric-vehicle-population-data"
+  }
+],
+"title": "Electric Vehicle Population Data",
+"descriptions": [
+   {
+    "description": "This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State         Department of Licensing (DOL)."
+    },
+    {
+  "tableofcontents": "VIN -- County -- City -- State -- Postal Code -- Model Year -- Make -- Model -- Electric Vehicle Type -- Clean Alternative Fuel Vehicle (CAFV) Eligibility -- Electric Range -- Base MSRP -- Legislative District -- DOL Vehicle ID -- Vehicle Location -- Electric Utility -- 2020 Census Tract"
+    }
+],
+"created": "2020-11-10",
+"modified": "2024-02-14",
+"publishers": [
+  {
+    "publisher": "data.wa.gov"
+  },
+  {
+    "publisher": "Washington State Department of Licensing"
+  }
+],
+"language": "English"
+}
