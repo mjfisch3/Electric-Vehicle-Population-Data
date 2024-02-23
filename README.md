@@ -26,5 +26,5 @@
 - [Term Project Part 2 - Repository Profile.docx](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/a2146a782e8c8299d432bad8d1cdd381266780df/Term%20Project%20Part%202%20-%20Repository%20Profile.docx)
     - Second submission of the term project in its own separate document. 
     - Completed on the [Alternative Fuels Data Center (AFDC)](https://afdc.energy.gov/).
-- Term Project Draft.docx
+- [Term Project Draft.docx](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/7d8e7c485a5a2724d9c75b64e962005fd3622c8b/Term%20Project%20Draft.docx)
     - Document containing parts 1 and 2 of the term project, including additional content based on draft assignment.
