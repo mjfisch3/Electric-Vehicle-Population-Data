@@ -22,10 +22,13 @@
 
 ## Project Files
 - [Term Project Part 1 - Data Profile.docx](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/a2146a782e8c8299d432bad8d1cdd381266780df/Term%20Project%20Part%201%20-%20Data%20Profile.docx)
-    - First submission of the term project in its own separate document. 
+    - First submission of the LIS 545 term project in its own separate document. 
     - Completed on the [Electric Vehicle Population Data dataset](https://catalog.data.gov/dataset/electric-vehicle-population-data).
 - [Term Project Part 2 - Repository Profile.docx](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/a2146a782e8c8299d432bad8d1cdd381266780df/Term%20Project%20Part%202%20-%20Repository%20Profile.docx)
-    - Second submission of the term project in its own separate document. 
+    - Second submission of the LIS 545 term project in its own separate document. 
     - Completed on the [Alternative Fuels Data Center (AFDC)](https://afdc.energy.gov/).
 - [Term Project Draft.docx](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/7d8e7c485a5a2724d9c75b64e962005fd3622c8b/Term%20Project%20Draft.docx)
-    - Document containing parts 1 and 2 of the term project, including additional content based on draft assignment.
+    - Document containing parts 1 and 2 of the LIS 545 term project, including additional content based on draft assignment.
+- [Term Project.docx](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/09f9ced706470f5e8a5acaf640020955bb6b06dd/Term%20Project.docx)
+    - Document with finalized parts of the LIS 545 term project, with headers and references.
+    - Includes information on dataset selection and overview, a repository profile on AFDC, and recommendations for citation, copyright licenses, and preservation.
