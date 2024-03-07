@@ -17,7 +17,8 @@
 ## Metadata Files
 - [Structured Metadata.json](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/ee93f38618d2253ce19be0291ec9f4fb81305a3c/Structured%20Metadata.json)
     - JSON file of the dataset metadata. 
-    - Structured using [Dublin Core metadata schema](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) and the information provided on [data.gov](https://catalog.data.gov/dataset/electric-vehicle-population-data).
+    - Structured using [Dublin Core metadata schema](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) and the information provided on [data.gov](https://catalog.data.gov/dataset/electric-vehicle-population-data). (DCMI is followed using non-RDF formatting as indicated on the [DCMI terms page](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) in this statement:
+    > "Creators of non-RDF metadata can use the terms in contexts such as XML, JSON, UML, or relational databases by disregarding both the global identifier and the formal implications of the RDF-specific aspects of term definitions. Such users can take domain, range, subproperty, and subclass relations as usage suggestions and focus on the natural-language text of definitions, usage notes, and examples."
 
 ## Project Files
 - [Term Project Part 1 - Data Profile.docx](https://github.com/mjfisch3/Electric-Vehicle-Population-Data/blob/a2146a782e8c8299d432bad8d1cdd381266780df/Term%20Project%20Part%201%20-%20Data%20Profile.docx)
